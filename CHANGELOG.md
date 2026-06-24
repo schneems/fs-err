@@ -1,5 +1,7 @@
 # fs-err Changelog
 
+* Fix `debug_tokio` feature so it works as documented. ([#92](https://github.com/andrewhickman/fs-err/issues/92))
+
 ## 3.3.2
 
 * Cleanup rustdoc links to make them clickable in rust-analyzer ([#88](https://github.com/andrewhickman/fs-err/pull/88))
