@@ -1,8 +1,10 @@
 # fs-err Changelog
 
+## 3.3.1
+
 * Fix `debug_tokio` feature so it works as documented. ([#92](https://github.com/andrewhickman/fs-err/issues/92))
 
-## 3.3.2
+## 3.3.0
 
 * Cleanup rustdoc links to make them clickable in rust-analyzer ([#88](https://github.com/andrewhickman/fs-err/pull/88))
 * Add wrappers for several `os::unix::fs` functions ([#87](https://github.com/andrewhickman/fs-err/pull/87)):
