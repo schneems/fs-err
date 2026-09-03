@@ -1,5 +1,7 @@
 # fs-err Changelog
 
+* Reword errors for `metadata` and `symlink_metadata` ([#95](https://github.com/andrewhickman/fs-err/pull/95))
+
 ## 3.3.1
 
 * Fix `debug_tokio` feature so it works as documented. ([#92](https://github.com/andrewhickman/fs-err/issues/92))
