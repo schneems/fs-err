@@ -1,5 +1,7 @@
 # fs-err Changelog
 
+* Update `path_facts` dependency (used for the `debug` feature) ([#96](https://github.com/andrewhickman/fs-err/pull/93))
+
 ## 3.3.2
 
 * Reword errors for `metadata` and `symlink_metadata` ([#95](https://github.com/andrewhickman/fs-err/pull/95))
